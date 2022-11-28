@@ -25,5 +25,4 @@
 <div> 
   
   ![Snake animation](https://github.com/kseniyavldk/kseniyavldk/blob/main/assets/github-contribution-grid-snake.svg)
-  https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg
 </div>
