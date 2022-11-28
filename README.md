@@ -29,7 +29,7 @@
 
 <div align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="30" src="https://github.com/kseniyavldk/kseniyavldk/blob/main/assets/giphy.gif" width="30px">
+  <img height="180em" src="https://github.com/kseniyavldk/kseniyavldk/blob/main/assets/giphy.gif" width="350px">
 </div>
 
 <div> 
