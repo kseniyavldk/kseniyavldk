@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div> 
