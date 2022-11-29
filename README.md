@@ -26,7 +26,6 @@
 
 [![Telegram: kseniyavldk](https://img.shields.io/badge/-Telegram-209cf4?style=for-the-badge&logo=telegram)](https://t.me/kseniyavldk) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-045cbc?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kseniya-volodko-19b751258)
-[![Gmail](https://img.shields.io/badge/-Gmail-ede6e6?style=for-the-badge&logo=gmail)](mailto:nunci923@gmail.com)
 
 <div align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
