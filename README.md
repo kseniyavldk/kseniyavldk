@@ -30,7 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-045cbc?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kseniya-volodko-19b751258)
 
 <div align="center">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img height="180em" src="https://github.com/kseniyavldk/kseniyavldk/blob/main/assets/giphy.gif" width="350px">
 </div>
 
