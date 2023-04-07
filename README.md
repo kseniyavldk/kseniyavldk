@@ -27,7 +27,7 @@
 ### 📫 &nbsp; You can reach me 
 
 [![Telegram: kseniyavldk](https://img.shields.io/badge/-Telegram-209cf4?style=for-the-badge&logo=telegram)](https://t.me/kseniyavldk) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-045cbc?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kseniya-volodko-19b751258)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-045cbc?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kseniya-mokhan-19b751258/)
 
 <div align="center">
   <img align="left" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kseniyavldk&layout=compact&langs_count=7&theme=midnight-purple"/>
